@@ -1,0 +1,10 @@
+reference: http://blog.csdn.net/xh16319/article/details/12142249
+
+pre: 启动Apache active MQ服务器: E:\apache-activemq-5.12.0\bin\win32\activemq.bat start
+默认端口: 61616
+
+admin 控制台: http://localhost:8161/admin/   admin/admin登录
+
+
+先运行Consumer.java 然后运行Publisher.java  (main 里面args手动设置成ORCL，注: 原文要求输入ORCL)
+就可以看到Publisher在发送消息，Consumer在接收消息了。

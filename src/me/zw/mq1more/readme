@@ -1,0 +1,8 @@
+reference http://www.cnblogs.com/xwdreamer/archive/2012/02/21/2360818.html
+
+pre: 启动Apache active MQ服务器: E:\apache-activemq-5.12.0\bin\win32\activemq.bat start
+默认端口: 61616
+
+admin 控制台: http://localhost:8161/admin/   admin/admin登录
+
+
